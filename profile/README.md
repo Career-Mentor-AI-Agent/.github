@@ -14,10 +14,16 @@ We're building the future of career guidance with 7 progressive AI agent version
 ## 🎯 Our Vision
 Empowering professionals with AI-driven career insights and presentation assistance.
 
+We're building 7 progressive versions of our Career Mentor AI, each named after a vehicle that represents its complexity level:
+
+- **Bike** → **Scooter** → **Motorbike** → **Car** → **Helicopter** → **Airplane** → **Shuttle**
+
+This progression shows how our AI evolves from basic prompts to full autonomy, just like how vehicles become more sophisticated as they advance.
+
 ## 📈 Progress
-- [x] Version 1: Scooter (Basic Agent)
-- [x] Version 2: Bicycle (Enhanced Agent)
-- [ ] Version 3: Motorcycle (Multi-Agent)
+- [x] Version 1: Bike (Basic Agent)
+- [x] Version 2: Scooter (Enhanced Agent)
+- [ ] Version 3: Motorbike (Multi-Agent)
 - [ ] Version 4: Car (Autonomous Workflow)
 - [ ] Version 5: Helicopter (Analytics)
 - [ ] Version 6: Airplane (Enterprise)
