@@ -1,4 +1,4 @@
-# 🚀 Career Mentor AI
+# 🚀 CM: A Career Mentor AI Agent
 
 > Transforming career development through intelligent AI agents
 
