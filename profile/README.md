@@ -23,8 +23,8 @@ This progression shows how our AI evolves from basic prompts to full autonomy, j
 ## 📈 Progress
 - [x] Version 1: Bike (Basic Agent)
 - [x] Version 2: Scooter (Enhanced Agent)
-- [ ] Version 3: Motorbike (Multi-Agent)
-- [ ] Version 4: Car (Autonomous Workflow)
+- [x] Version 3: Motorbike (Multi-Agent)
+- [x] Version 4: Car (Autonomous Workflow)
 - [ ] Version 5: Helicopter (Analytics)
 - [ ] Version 6: Airplane (Enterprise)
 - [ ] Version 7: Spaceship (Full Autonomy)
